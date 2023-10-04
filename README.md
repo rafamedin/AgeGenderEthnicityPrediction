@@ -10,7 +10,7 @@ Dataset Link (Kaggle): https://www.kaggle.com/code/shahraizanwar/age-gender-ethn
 
 ```Python
 import numpy as np
-import pandas as pd
+import pandas as p
 import tensorflow as tf
 import tensorflow.keras.layers as L
 import matplotlib.pyplot as plt
