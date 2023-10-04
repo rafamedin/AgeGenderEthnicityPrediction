@@ -14,7 +14,7 @@ import pandas as pd
 import tensorflow as tf
 import tensorflow.keras.layers as L
 import matplotlib.pyplot as plt
-import plotly.graph_objects as 
+import plotly.graph_objects as go
 import plotly.express as px
 from sklearn.model_selection import train_test_split
 
