@@ -1,5 +1,5 @@
 # AgeGenderEthnicityPrediction
-This project leverages machine learning techniques and computer vision to predict a person's age, gender, and ethnicity from a given image.
+This project leverages machine learning techniques and computer vision to predict a person's age, gender, and ethnicity from a given image
 
 Through this project, I had the chance to use the tensorflow library for the first time in python.
 In the content of the project, I developed a project that predicts the age, gender and ethnicity of the people in the pictures with the data we get from the dataset on kaggle. Apart from these, you can see certain tables using data visualization algorithms related to certain data.
